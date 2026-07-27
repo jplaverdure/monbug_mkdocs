@@ -34,13 +34,13 @@ V5A 1S6 Canada
 
 ### Le comité d'organisation de MonBUG
 
-- Nazli Kocatug
-- Golrokh Vitae
-- Francis Ouellette 
-- Sandrine Soeharjono
-- Rahmdani Farzaneh
-- Jean-Philippe Laverdure, Bio-informaticien Sénior, IRIC, Université de Montréal
-- Josette-Renée Landry, Présidente, Génome Québec
+- Nazli Kocatug, Université de Montréal
+- Golrokh Vitae, UQAM
+- Francis Ouellette, Montréal
+- Sandrine Soeharjono, MIMS
+- Rahmdani Farzaneh, UQAM
+- Jean-Philippe Laverdure, IRIC, Université de Montréal
+- Josette-Renée Landry, Génome Québec
 
 ### Nous adressons des remerciements particuliers aux amis de MonBUG suivants
 

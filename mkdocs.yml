@@ -8,8 +8,6 @@ plugins:
 
 extra:
   social:
-    - icon: fontawesome/brands/x-twitter
-      link: https://x.com/monbug_
     - icon: fontawesome/brands/bluesky
       link: https://bsky.app/profile/mon-bug.bsky.social
     - icon: fontawesome/brands/youtube

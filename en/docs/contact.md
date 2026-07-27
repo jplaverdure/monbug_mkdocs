@@ -34,13 +34,13 @@ V5A 1S6 Canada
 
 ### MonBUG development group includes
 
-- Nazli Kocatug
-- Golrokh Vitae
-- Francis Ouellette 
-- Sandrine Soeharjono
-- Rahmdani Farzaneh
-- Jean-Philippe Laverdure, Senior bio-informatician, IRIC, Université de Montréal
-- Josette-Renée Landry, President, Génome Québec
+- Nazli Kocatug, Université de Montréal
+- Golrokh Vitae, UQAM
+- Francis Ouellette, Montréal
+- Sandrine Soeharjono, MIMS
+- Rahmdani Farzaneh, UQAM
+- Jean-Philippe Laverdure, IRIC, Université de Montréal
+- Josette-Renée Landry, Génome Québec
 
 ### Special thanks go to the following friends of MonBUG
 

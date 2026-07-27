@@ -6,7 +6,7 @@
 
 - ### [Sep 9th, 2026, Wednesday](./archive/2026/2026-09-09.md)
 
-    :material-clock: 5:00pm - 7:00pm
+    :material-clock: 17h30 - 19h30
 
     :material-map-marker: **Location:** Room PK-4610, JF Kennedy pavillion, UQÀM ([201, avenue du Président-Kennedy, Montréal, QC H2X 2J5](https://maps.app.goo.gl/n9AEHBFdRroDvhGa6)).
 

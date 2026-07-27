@@ -1,0 +1,17 @@
+# **Montreal Bioinformatics User Group**
+
+MonBUG (Montreal Bioinformatics User Group) is an association of researchers, other professionals and students in the Greater Montreal area who have an interest in the field of bioinformatics, computational biology, and data sciences. MonBUG meets every month from September through April. Research presentations by bioinformatics leaders, students and industry representatives are followed by networking over pizza and refreshments
+
+[Regular in-person monthly meetings](./schedule.md) will be held monthly on wednesdays from **5:00pm to 7:00pm** and are free and open to all. Please refer to the [Schedule](./schedule.md) page or [subscribe to our Calendar](https://calendar.google.com/calendar/u/1?cid=dmFuYmlvaW5mb0BnbWFpbC5jb20) for specific details regarding speaker location and room information.
+
+<!-- 
+As a service to the community, local MonBUG and other bioinformatics events are posted to the [Calendar](https://calendar.google.com/calendar/embed?src=vanbioinfo%40gmail.com&ctz=America%2FVancouver). Click [Subscribe](https://calendar.google.com/calendar/u/1?cid=dmFuYmlvaW5mb0BnbWFpbC5jb20) to subscribe to this calendar, so that all current and future events appear on your personal calendar.
+-->
+Visit our sister groups for bioinformatics events in Toronto ([TorBUG](https://torbug.org/)) and Vancouver ([VanBUG](https://vanbug.org/)) !
+
+## MonBUG Monthly Event
+
+{%
+   include-markdown "./archive/2026/2026-09-09.md"
+   start="# September - Jérome Waldispühl"
+%}

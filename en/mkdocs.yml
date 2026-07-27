@@ -1,0 +1,13 @@
+INHERIT: ../mkdocs.yml
+
+site_dir: ../dist/en
+
+theme:
+  name: material
+  language: en
+
+extra:
+  alternate:
+    - name: Français
+      link: /fr/
+      lang: fr

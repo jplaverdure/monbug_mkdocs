@@ -1,0 +1,28 @@
+iframe.twitter-timeline.twitter-timeline-rendered {
+    max-width: 500px !important;
+    max-height: 1000px;
+}
+
+/* use two column layout when there is space to do so */
+@media (min-width: 700px) {
+    .bio {
+        display: grid;
+        grid-template-columns: 30% 1fr;
+    }
+}
+
+.bio> :first-child {
+    max-height: 500px;
+    grid-column: 0;
+    margin-right: 20px;
+}
+
+.bio> :first-child img {
+    max-height: 500px;
+}
+
+:root > * {
+    .md-header__title {
+        margin-left: 0px;
+    }
+}

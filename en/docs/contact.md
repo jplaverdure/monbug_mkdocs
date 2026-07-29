@@ -40,7 +40,6 @@ V5A 1S6 Canada
 - Sandrine Soeharjono, MIMS
 - Rahmdani Farzaneh, UQAM
 - Jean-Philippe Laverdure, IRIC, Université de Montréal
-- Josette-Renée Landry, Génome Québec
 
 ### Special thanks go to the following friends of MonBUG
 

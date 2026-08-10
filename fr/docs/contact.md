@@ -15,7 +15,7 @@ Offres de parrainage: parrainage [at] monbug.ca
 ## Liste de diffusion
 
 Nous utilisons notre liste de diffusion à faible volume pour diffuser des informations sur nos événements et nos offres d'emploi.<br>
-Pour vous abonner, veuillez remplir le formulaire. [ce formulaire](https://app.cyberimpact.com/clients/59894/subscribe-forms/5EA936CE-7BD8-476C-B03B-C371B676B875).
+Pour vous abonner, veuillez remplir [ce formulaire](https://app.cyberimpact.com/clients/59894/subscribe-forms/5EA936CE-7BD8-476C-B03B-C371B676B875).
 
 <!--
 ### [**Suggest a Speaker**](https://forms.gle/kXtGzhC2t9ngxnHz5 "Suggest a Speaker")

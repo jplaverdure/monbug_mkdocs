@@ -1,6 +1,5 @@
 site_name: MonBUG
 site_dir: dist
-site_url: https://monbug.ca
 
 plugins:
   - include-markdown

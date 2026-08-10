@@ -1,6 +1,7 @@
 INHERIT: ../mkdocs.yml
 
 site_dir: ../dist/en
+site_url: https://monbug.ca/en/
 
 theme:
   name: material
@@ -11,3 +12,7 @@ extra:
     - name: Français
       link: /fr/
       lang: fr
+
+    - name: English
+      link: /en/
+      lang: en

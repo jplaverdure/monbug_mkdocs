@@ -37,7 +37,6 @@ V5A 1S6 Canada
 - Nazli Kocatug, Université de Montréal
 - Golrokh Vitae, UQAM
 - Francis Ouellette, Montréal
-- Sandrine Soeharjono, MIMS
 - Rahmdani Farzaneh, UQAM
 - Jean-Philippe Laverdure, IRIC, Université de Montréal
 
@@ -48,6 +47,7 @@ V5A 1S6 Canada
 
 ### MonBug Team Alumni
 
+- Sandrine Soeharjono, MIMS
 - Yasmine Draceni, MIMS
 - Christian Poitras, IRCM
 - Nadia Tahiri, Université de Sherbrooke

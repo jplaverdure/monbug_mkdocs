@@ -34,11 +34,13 @@ V5A 1S6 Canada
 
 ### MonBUG development group includes
 
-- Nazli Kocatug, Université de Montréal
-- Golrokh Vitae, UQAM
-- Francis Ouellette, Montréal
+- Virginie Calderon, IRCM
 - Rahmdani Farzaneh, UQAM
+- Julie Hussin, Université de Montréal
+- Nazli Kocatug, Université de Montréal
 - Jean-Philippe Laverdure, IRIC, Université de Montréal
+- Francis Ouellette, Montréal
+- Golrokh Vitae, UQAM
 
 ### Special thanks go to the following friends of MonBUG
 
@@ -47,21 +49,20 @@ V5A 1S6 Canada
 
 ### MonBug Team Alumni
 
-- Sandrine Soeharjono, MIMS
-- Yasmine Draceni, MIMS
-- Christian Poitras, IRCM
-- Nadia Tahiri, Université de Sherbrooke
-- Mathieu Lajoie, Goodman Cancer Center
-- Virginie Calderon, IRCM
-- Geneviève Boucher, IRIC, Université de Montréal
-- Mona Parizadeh, Agriculture and Agri-Food Canada
-- Alexis Blanchet-Cohen, CHU-Ste-Justine
-- Alain Bateman, Lady Davis Institute
 - Alain Bataille, IRCM
-- Assya Trofimov, IRIC, Université de Montréal
+- Alain Bateman, Lady Davis Institute
+- Alexis Blanchet-Cohen, CHU-Ste-Justine
 - Mathieu Blanchette, McGill Center for Bioinformatics (MCB)
-- Jérôme Waldispühl, McGill Center for Bioinformatics (MCB)
-- Pierre-Étienne Jacques, IRCM
+- Geneviève Boucher, IRIC, Université de Montréal
+- Yasmine Draceni, MIMS
 - Raphaël Gottardo, IRCM
+- Pierre-Étienne Jacques, IRCM
+- Mathieu Lajoie, Goodman Cancer Center
 - Sébastien Lemieux, IRIC, Université de Montréal
+- Mona Parizadeh, Agriculture and Agri-Food Canada
+- Christian Poitras, IRCM
+- Sandrine Soeharjono, MIMS
+- Nadia Tahiri, Université de Sherbrooke
+- Assya Trofimov, IRIC, Université de Montréal
+- Jérôme Waldispühl, McGill Center for Bioinformatics (MCB)
 - Brian Wilhelm, IRIC, Université de Montréal

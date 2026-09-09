@@ -16,5 +16,5 @@ Visit our [Canadian Bioinformatics Hub affiliate partners](https://bioinformatic
 
 {%
    include-markdown "./archive/2026/2026-09-09.md"
-   start="# September - Jérome Waldispühl"
+   start="# September - Jérôme Waldispühl"
 %}

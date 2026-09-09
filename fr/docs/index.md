@@ -19,5 +19,5 @@ Visitez nos [Partenaires affiliés du Hub Canadien de Bio-Informatique](https://
 
 {%
    include-markdown "./archive/2026/2026-09-09.md"
-   start="# Septembre - Jérome Waldispühl"
+   start="# Septembre - Jérôme Waldispühl"
 %}

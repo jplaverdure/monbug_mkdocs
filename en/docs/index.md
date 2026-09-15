@@ -15,6 +15,6 @@ Visit our [Canadian Bioinformatics Hub affiliate partners](https://bioinformatic
 ## MonBUG Monthly Event
 
 {%
-   include-markdown "./archive/2026/2026-09-09.md"
-   start="# September - Jérôme Waldispühl"
+   include-markdown "./archive/2026/2026-10-14.md"
+   start="# October - Sébastien Lemieux"
 %}

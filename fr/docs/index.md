@@ -18,6 +18,6 @@ Visitez nos [Partenaires affiliés du Hub Canadien de Bio-Informatique](https://
 ## Prochain événement
 
 {%
-   include-markdown "./archive/2026/2026-09-09.md"
-   start="# Septembre - Jérôme Waldispühl"
+   include-markdown "./archive/2026/2026-10-14.md"
+   start="# Octobre - Sébastien Lemieux"
 %}

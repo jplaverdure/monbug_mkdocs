@@ -6,7 +6,7 @@ social:
 
 # **Groupe d’intérêt en bio-informatique de Montréal**
 
-MonBUG (Groupe d’intérêt en bio-informatique de Montréal) est une association de chercheurs, professionnels et étudiants de la grande région de Montréal qui partagent un intérêt pour la bio-informatique.  Au cours de nos rencontres, nous présentons nos travaux, posons des questions et partageons nos idées ainsi que des trucs et astuces pratiques. MonBUG se réunit a tous les mois de septembre à avril. Des présentations de recherche par des leaders en bioinformatique, des étudiants et des représentants de l'industrie sont suivies d'un moment de réseautage autour de pizzas et de rafraîchissements.
+MonBUG (Groupe d’intérêt en bio-informatique de Montréal) est une association de chercheurs, professionnels et étudiants de la grande région de Montréal qui partagent un intérêt pour la bio-informatique.  Au cours de nos rencontres, nous présentons nos travaux, posons des questions et partageons nos idées ainsi que des trucs et astuces pratiques. MonBUG se réunit chaque mois, de septembre à avril. Des présentations de recherche par des leaders en bioinformatique, des étudiants et des représentants de l'industrie sont suivies d'un moment de réseautage autour de bouchées et de rafraîchissements.
 
 [Des réunions mensuelles en présentiel](./schedule.md) auront lieu les mercredis de **17h30 a 19h30** et sont gratuites et ouvertes à tous. Veuillez [consulter l'agenda](./schedule.md) pour plus de détails concernant les conférenciers et les informations sur la salle.
 

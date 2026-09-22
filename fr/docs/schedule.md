@@ -18,8 +18,8 @@
 
     :material-clock: 17h30 - 19h30
 
-    :material-map-marker: **Emplacement:** Salle PK-4610, Pavillion JF Kennedy, UQÀM ([201, avenue du Président-Kennedy, Montréal, QC H2X 2J5](https://maps.app.goo.gl/n9AEHBFdRroDvhGa6))
-
+    :material-map-marker: **Emplacement:** Auditorium Jacques-Genest, Institut de recherches cliniques de Montréal (IRCM), ([110 Ave des Pins Ouest, Montreal, Quebec H2W 1R7](https://maps.app.goo.gl/vyViEbEmmpQkhLKf6))  
+    
     Conférencier principal: Dr. Sébastien Lemieux
 
     Conférencier étudiant: À venir
@@ -28,7 +28,7 @@
 
     :material-clock: 17h30 - 19h30
 
-    :material-map-marker: **Emplacement:** Salle PK-4610, Pavillion JF Kennedy, UQÀM ([201, avenue du Président-Kennedy, Montréal, QC H2X 2J5](https://maps.app.goo.gl/n9AEHBFdRroDvhGa6))
+    :material-map-marker: **Emplacement:** Auditorium Jacques-Genest, Institut de recherches cliniques de Montréal (IRCM), ([110 Ave des Pins Ouest, Montreal, Quebec H2W 1R7](https://maps.app.goo.gl/vyViEbEmmpQkhLKf6))
 
     Conférencier principal: Dr. Guillaume Bourque
 

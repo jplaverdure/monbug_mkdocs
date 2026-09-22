@@ -1,8 +1,12 @@
 # Contact
 
+## **Devenez conférencier**
+Si vous êtes intéressé à donner une **courte présentation** à l'un de nos évènements, veuillez remplir ce formulaire:  
+[**Je souhaite présenter à MonBUG**](https://forms.gle/i19Qtyvg9Hyphy7C6 "Je souhaite présenter à MonBUG")
+
 ## **Emplacement**
 
-Les rencontres ont normalement lieu au Pavillon President-Kennedy de l'UQAM ([201, avenue du Président-Kennedy, Montréal, QC H2X 2J5](https://maps.app.goo.gl/n9AEHBFdRroDvhGa6)).
+Les rencontres ont normalement lieu au Pavillon President-Kennedy de l'UQAM ([201, avenue du Président-Kennedy, Montréal, QC H2X 2J5](https://maps.app.goo.gl/n9AEHBFdRroDvhGa6)) ou à l'Auditorium Jacques-Genest, Institut de recherches cliniques de Montréal (IRCM), ([110 Ave des Pins Ouest, Montreal, Quebec H2W 1R7](https://maps.app.goo.gl/vyViEbEmmpQkhLKf6)). Veuillez consulter les détails de l'emplacement dans la description de l'évènement.
 
 ## **Courriels**
 
@@ -53,7 +57,7 @@ V5A 1S6 Canada
 - Alain Bateman, Lady Davis Institute
 - Alexis Blanchet-Cohen, CHU-Ste-Justine
 - Mathieu Blanchette, McGill Center for Bioinformatics (MCB)
-- Geneviève Boucher, IRIC, Université de Montréal
+- Geneviève Boucher, CHUM
 - Yasmine Draceni, MIMS
 - Raphaël Gottardo, IRCM
 - Pierre-Étienne Jacques, IRCM

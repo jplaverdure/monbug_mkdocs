@@ -1,10 +1,14 @@
 # Contact
 
-## **Seminar Locations:**
+## **Become a speaker**
+If you are interested in giving a **short talk** at one of our events, please fill out this form:  
+[**I would like to give a short talk at MonBUG**](https://forms.gle/i19Qtyvg9Hyphy7C6 "I would like to give a talk  at MonBUG")
 
-Regular seminars are held in person at the President-Kennedy Pavillion of UQAM ([201, avenue du Président-Kennedy, Montréal, QC H2X 2J5](https://maps.app.goo.gl/n9AEHBFdRroDvhGa6)).
+## **Seminar Locations**
 
-## **Email:**
+Regular seminars are held in person at the President-Kennedy Pavillion of UQAM ([201, avenue du Président-Kennedy, Montréal, QC H2X 2J5](https://maps.app.goo.gl/n9AEHBFdRroDvhGa6)) or at the Jacques-Genest Auditorium, Institut de recherches cliniques de Montréal (IRCM), ([110 Ave des Pins Ouest, Montreal, Quebec H2W 1R7](https://maps.app.goo.gl/vyViEbEmmpQkhLKf6)). Consult the event details for the location where the event is to take place.
+
+## **Email**
 
 **Primary:** info [at] monbug.ca
 
@@ -17,9 +21,7 @@ Sponsorship Inquiries: sponsors [at] monbug.ca
 We use our low-volume mailing list to diseminate information about our events and job postings.<br>
 To subscribe, fill out [this form](https://app.cyberimpact.com/clients/59894/subscribe-forms/803033BF-0BF7-4803-8270-38A02E4B7642).<br>
 
-<!-- 
-### [**Suggest a Speaker**](https://forms.gle/kXtGzhC2t9ngxnHz5 "Suggest a Speaker")
-
+<!--
 ## Mailing Address
 
 VanBUG<br>
@@ -53,7 +55,7 @@ V5A 1S6 Canada
 - Alain Bateman, Lady Davis Institute
 - Alexis Blanchet-Cohen, CHU-Ste-Justine
 - Mathieu Blanchette, McGill Center for Bioinformatics (MCB)
-- Geneviève Boucher, IRIC, Université de Montréal
+- Geneviève Boucher, CHUM
 - Yasmine Draceni, MIMS
 - Raphaël Gottardo, IRCM
 - Pierre-Étienne Jacques, IRCM

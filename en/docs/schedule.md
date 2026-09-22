@@ -18,7 +18,7 @@
 
     :material-clock: 17h30 - 19h30
 
-    :material-map-marker: **Location:** Room PK-4610, President-Kennedy pavillion, UQÀM ([201, avenue du Président-Kennedy, Montréal, QC H2X 2J5](https://maps.app.goo.gl/n9AEHBFdRroDvhGa6))
+    :material-map-marker: **Location:** Jacques-Genest Auditorium, Institut de recherches cliniques de Montréal (IRCM), ([110 Ave des Pins Ouest, Montreal, Quebec H2W 1R7](https://maps.app.goo.gl/vyViEbEmmpQkhLKf6))
 
     Featured Speaker: Dr. Sébastien Lemieux
 
@@ -28,7 +28,7 @@
 
     :material-clock: 17h30 - 19h30
 
-    :material-map-marker: **Location:** Room PK-4610, President-Kennedy pavillion, UQÀM ([201, avenue du Président-Kennedy, Montréal, QC H2X 2J5](https://maps.app.goo.gl/n9AEHBFdRroDvhGa6))
+    :material-map-marker: **Location:** Jacques-Genest Auditorium, Institut de recherches cliniques de Montréal (IRCM), ([110 Ave des Pins Ouest, Montreal, Quebec H2W 1R7](https://maps.app.goo.gl/vyViEbEmmpQkhLKf6))
 
     Featured Speaker: Dr. Guillaume Bourque
 

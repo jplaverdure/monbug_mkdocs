@@ -32,7 +32,7 @@
 
     Conférencier principal: Dr. Guillaume Bourque
 
-    Conférencier étudiant: À venir
+    Conférencier étudiant: Omar Al Rifai  
 
 - ### [Mercredi le 9 Déc 2026](./archive/2026/2026-12-09.md)
 
@@ -42,4 +42,4 @@
 
     Conférencier principal: Dre. Julie Hussin
 
-    Conférencier étudiant: À venir
+    Conférencier étudiant: Sayeh Kazem

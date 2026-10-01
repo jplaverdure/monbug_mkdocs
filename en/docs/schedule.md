@@ -32,7 +32,7 @@
 
     Featured Speaker: Dr. Guillaume Bourque
 
-    Trainee Speaker: To be announced
+    Trainee Speaker: Omar Al Rifai  
 
 - ### [December 9th, 2026, Wednesday](./archive/2026/2026-12-09.md)
 
@@ -42,4 +42,4 @@
 
     Featured Speaker: Dr. Julie Hussin
 
-    Trainee Speaker: To be announced
+    Trainee Speaker: Sayeh Kazem

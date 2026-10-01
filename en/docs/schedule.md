@@ -22,7 +22,7 @@
 
     Featured Speaker: Dr. Sébastien Lemieux
 
-    Trainee Speaker: To be announced
+    Trainee Speaker: Eric Huang
 
 - ### [November 11th, 2026, Wednesday](./archive/2026/2026-11-11.md)
 

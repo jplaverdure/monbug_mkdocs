@@ -22,7 +22,7 @@
     
     Conférencier principal: Dr. Sébastien Lemieux
 
-    Conférencier étudiant: À venir
+    Conférencier étudiant: Eric Huang
 
 - ### [Mercredi le 11 Nov 2026](./archive/2026/2026-11-11.md)
 

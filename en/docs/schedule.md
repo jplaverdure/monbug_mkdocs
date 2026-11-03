@@ -1,5 +1,15 @@
 # Schedule
 
+As a service to the community, local MonBUG and other bioinformatics events are posted to our [Calendar](https://calendar.google.com/calendar/embed?src=bru2vdhv5tjbel66hkcj3cv2tc%40group.calendar.google.com&ctz=America%2FToronto). Regular in-person monthly meetings will be held monthly on Wednesdays from 5:30pm to 7:30pm and are free and open to all.
+
+<details class="vb-calendar" markdown>
+<summary>Subscribe to our Event Calendar</summary>
+
+- [![](assets/images/google-logo.svg) Google Calendar](https://calendar.google.com/calendar/u/0?cid=YnJ1MnZkaHY1dGpiZWw2NmhrY2ozY3YydGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+- [![](assets/images/apple-logo.svg) Apple Calendar](https://calendar.google.com/calendar/ical/bru2vdhv5tjbel66hkcj3cv2tc%40group.calendar.google.com/public/basic.ics)
+- [![](assets/images/microsoft-outlook.svg) Outlook](https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fical%2Fbru2vdhv5tjbel66hkcj3cv2tc%40group.calendar.google.com%2Fpublic%2Fbasic.ics&name=MonBUG)
+</details>
+
 ## Fall 2026
 
 /// html | div[class="timeline"]

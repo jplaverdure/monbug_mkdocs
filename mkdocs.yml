@@ -17,6 +17,7 @@ extra:
       link: https://www.linkedin.com/company/monbug/
 
 extra_css:
+  # - assets/styles/palette.css
   - assets/styles/timeline.css
   - assets/styles/general.css
   - assets/styles/image-gallery.css

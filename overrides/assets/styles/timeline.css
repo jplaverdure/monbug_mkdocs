@@ -65,3 +65,108 @@
   border-width: 8px 16px 8px 0;
   border-color: transparent #00b8d41a transparent transparent;
 }
+
+details.vb-calendar {
+  background: none;
+  /* border: 0; */
+  box-shadow: none;
+  display: inline-block;
+  font-size: inherit;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+details.vb-calendar > summary {
+  align-items: center;
+  background: var(--vb-surface);
+  border: 1px solid var(--vb-rule);
+  border-radius: var(--vb-radius);
+  display: inline-flex;
+  font: 600 .72rem/1 var(--vb-font);
+  gap: .35rem;
+  margin: 0;
+  padding: .5rem .7rem .5rem .9rem;
+  transition: background-color .15s, border-color .15s;
+}
+
+details.vb-calendar > summary:hover,
+details.vb-calendar[open] > summary {
+  background: var(--vb-tint);
+  border-color: var(--vb-muted);
+}
+
+details.vb-calendar > summary::before { content: none; }
+
+details.vb-calendar > summary::after {
+  height: .8rem;
+  position: static;
+  transform: rotate(90deg);
+  transition: transform .15s;
+  width: .8rem;
+}
+
+details.vb-calendar[open] > summary::after { transform: rotate(-90deg); }
+
+details.vb-calendar > ul {
+  background: var(--vb-surface);
+  border: 1px solid var(--vb-rule);
+  border-radius: var(--vb-radius);
+  box-shadow: 0 24px 48px -24px rgb(21 29 25 / 25%);
+  list-style: none;
+  margin: .3rem 0 0;
+  min-width: 12rem;
+  padding: .3rem;
+  position: absolute;
+  z-index: 2;
+}
+
+details.vb-calendar > ul > li { margin: 0; }
+
+details.vb-calendar a {
+  align-items: center;
+  border-radius: calc(var(--vb-radius) * .75);
+  color: var(--vb-text);
+  display: flex;
+  font-size: .75rem;
+  gap: .6rem;
+  padding: .5rem .6rem;
+  text-decoration: none;
+}
+
+details.vb-calendar a:hover,
+details.vb-calendar a:focus-visible { background: var(--vb-tint); }
+
+details.vb-calendar img {
+  height: 1rem;
+  width: 1rem;
+}
+
+@media (min-width: 48em) {
+  details.vb-calendar > summary::after { transform: none; }
+  details.vb-calendar[open] > summary::after { transform: rotate(180deg); }
+
+  details.vb-calendar > ul {
+    bottom: 0;
+    box-shadow: none;
+    display: flex;
+    gap: .1rem;
+    left: 100%;
+    margin: 0 0 0 .3rem;
+    padding: .15rem;
+    top: 0;
+    white-space: nowrap;
+    width: max-content;
+  }
+
+  details.vb-calendar > ul > li { flex: none; }
+
+  details.vb-calendar a {
+    height: 100%;
+    padding: 0 .6rem;
+  }
+}
+
+[data-md-color-scheme="slate"]  details.vb-calendar img[src$="apple-logo.svg"] { filter: invert(1); }

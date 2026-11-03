@@ -36,13 +36,17 @@ V5A 1S6 Canada
 
 ### MonBUG development group includes
 
+- Jacob Beaulac, Université de Montréal
 - Virginie Calderon, IRCM
 - Rahmdani Farzaneh, UQAM
+- Pauline Hughes, INSPQ
 - Julie Hussin, Université de Montréal
+- Brandon Jansonius, Université de Montréal
 - Golrokh Kiani, BIRD
 - Nazli Kocatug, Université de Montréal
 - Jean-Philippe Laverdure, IRIC, Université de Montréal
 - Francis Ouellette, Montréal
+- Sahar Parto, CBH/HCB
 
 ### Special thanks go to the following friends of MonBUG
 

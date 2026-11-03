@@ -38,13 +38,17 @@ V5A 1S6 Canada
 
 ### Le comité d'organisation de MonBUG
 
+- Jacob Beaulac, Université de Montréal
 - Virginie Calderon, IRCM
 - Rahmdani Farzaneh, UQAM
+- Pauline Hughes, INSPQ
 - Julie Hussin, Université de Montréal
-- Golrokh Kiani, BIRD  
+- Brandon Jansonius, Université de Montréal
+- Golrokh Kiani, BIRD
 - Nazli Kocatug, Université de Montréal
 - Jean-Philippe Laverdure, IRIC, Université de Montréal
 - Francis Ouellette, Montréal
+- Sahar Parto, CBH/HCB
 
 ### Nous adressons des remerciements particuliers aux amis de MonBUG suivants
 

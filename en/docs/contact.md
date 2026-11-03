@@ -39,10 +39,10 @@ V5A 1S6 Canada
 - Virginie Calderon, IRCM
 - Rahmdani Farzaneh, UQAM
 - Julie Hussin, Université de Montréal
+- Golrokh Kiani, BIRD
 - Nazli Kocatug, Université de Montréal
 - Jean-Philippe Laverdure, IRIC, Université de Montréal
 - Francis Ouellette, Montréal
-- Golrokh Vitae, UQAM
 
 ### Special thanks go to the following friends of MonBUG
 

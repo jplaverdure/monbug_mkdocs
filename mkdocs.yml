@@ -21,9 +21,13 @@ extra_css:
   - assets/styles/general.css
   - assets/styles/image-gallery.css
 
+extra_javascript:
+  - assets/javascripts/external-links.js
+
 markdown_extensions:
   - codehilite
   - admonition
+  - pymdownx.details
   - pymdownx.inlinehilite
   - pymdownx.extra
   - pymdownx.blocks.html

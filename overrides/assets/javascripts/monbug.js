@@ -28,7 +28,7 @@
     return null;
   };
 
-  const SCHEME = ["data-md-color-scheme", "data-md-color-primary", "data-md-color-accent"];
+  const SCHEME = ["data-md-color-media", "data-md-color-scheme", "data-md-color-primary", "data-md-color-accent"];
   new MutationObserver(() => {
     for (const a of SCHEME) document.documentElement.setAttribute(a, document.body.getAttribute(a));
   }).observe(document.body, { attributes: true, attributeFilter: SCHEME });

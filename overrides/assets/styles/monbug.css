@@ -14,3 +14,11 @@ body[data-md-color-scheme="slate"] .vb-mark--on-light { display: none; }
   html[lang="fr"] .vb-hero__inner { grid-template-columns: min(38rem, 64%) minmax(10rem, 1fr); }
   html[lang="fr"] .vb-hero h1 { max-width: none; }
 }
+
+/* Three-way theme toggle (automatic → light → dark). VanBUG's general.css only handles two options,
+   so show the button for the active option, keyed on its media (html attributes set in main.html and monbug.js). */
+html:root .md-header__option label.md-header__button[for] { display: none; }
+html:root:not([data-md-color-media]) .md-header__option label.md-header__button[for="__palette_2"],
+html:root[data-md-color-media="(prefers-color-scheme)"] .md-header__option label.md-header__button[for="__palette_2"],
+html:root[data-md-color-media="(prefers-color-scheme: light)"] .md-header__option label.md-header__button[for="__palette_3"],
+html:root[data-md-color-media="(prefers-color-scheme: dark)"] .md-header__option label.md-header__button[for="__palette_1"] { display: inline-block; }

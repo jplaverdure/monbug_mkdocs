@@ -13,7 +13,14 @@
   <script>
     document.documentElement.classList.replace("no-js", "js");
     var palette = __md_get("__palette");
-    if (palette && palette.color) for (var key in palette.color) document.documentElement.setAttribute("data-md-color-" + key, palette.color[key]);
+    if (palette && palette.color) {
+      {#- Material restores the saved choice by position: re-map it by media so choices saved before the automatic option was added still point to the same theme. #}
+      var order = {{ config.theme.palette | map(attribute="media") | list | tojson }};
+      var index = order.indexOf(palette.color.media);
+      if (index >= 0 && index !== palette.index) { palette.index = index; __md_set("__palette", palette); }
+      for (var key in palette.color) document.documentElement.setAttribute("data-md-color-" + key, palette.color[key]);
+      if (palette.color.media === "(prefers-color-scheme)") document.documentElement.setAttribute("data-md-color-scheme", matchMedia("(prefers-color-scheme: dark)").matches ? "slate" : "default");
+    }
   </script>
 {% endblock %}
 
@@ -47,7 +54,7 @@
         <form class="md-header__option" data-md-component="palette">
           {% for option in config.theme.palette %}
             <input class="md-option" data-md-color-media="{{ option.media }}" data-md-color-scheme="{{ option.scheme | d('default', true) | replace(' ', '-') }}" data-md-color-primary="{{ option.primary | d('custom', true) | replace(' ', '-') }}" data-md-color-accent="{{ option.accent | d('custom', true) | replace(' ', '-') }}" aria-label="{{ option.toggle.name }}" type="radio" name="__palette" id="__palette_{{ loop.index }}">
-            <label class="md-header__button md-icon" title="{{ option.toggle.name }}" for="__palette_{{ loop.index0 or loop.length }}" hidden>
+            <label class="md-header__button md-icon" title="{{ option.toggle.name }}" for="__palette_{{ loop.index % loop.length + 1 }}" hidden>
               {% include ".icons/" ~ option.toggle.icon ~ ".svg" %}
             </label>
           {% endfor %}

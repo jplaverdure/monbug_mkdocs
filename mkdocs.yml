@@ -70,6 +70,13 @@ theme:
     - navigation.indexes
 
   palette:
+    - media: "(prefers-color-scheme)"   # automatic: follows the system setting
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: custom
@@ -83,4 +90,4 @@ theme:
       accent: custom
       toggle:
         icon: octicons/moon-16
-        name: Switch to light mode
+        name: Switch to system setting

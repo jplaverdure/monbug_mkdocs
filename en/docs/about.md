@@ -50,3 +50,7 @@ Visit our [Canadian Bioinformatics Hub affiliate partners](https://bioinformatic
 - Brian Wilhelm, IRIC, Université de Montréal
 
 ///
+
+### Website
+
+This website's design was developed by our sister group, [VanBUG](https://vanbug.org), who generously shared their work. Its source code is available on [GitHub](https://github.com/van-bug/van-bug.github.io).

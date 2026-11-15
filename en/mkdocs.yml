@@ -9,6 +9,10 @@ theme:
 
 extra:
   full_name: Montreal Bioinformatics User Group
+  design_credit:   # footer credit line (see overrides/main.html)
+    text: Site design by our sister group
+    name: VanBUG
+    link: https://github.com/van-bug/van-bug.github.io
   alternate:
     - name: Français
       link: /fr/

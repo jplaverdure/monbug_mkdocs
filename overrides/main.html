@@ -154,6 +154,10 @@
       {% if config.extra.social %}
         {% include "partials/social.html" %}
       {% endif %}
+      {% set credit = config.extra.design_credit %}
+      {% if credit %}
+        <p class="vb-footer__credit">{{ credit.text }} <a href="{{ credit.link }}">{{ credit.name }}</a></p>
+      {% endif %}
     </div>
   </footer>
 {% endblock %}

@@ -22,3 +22,15 @@ html:root:not([data-md-color-media]) .md-header__option label.md-header__button[
 html:root[data-md-color-media="(prefers-color-scheme)"] .md-header__option label.md-header__button[for="__palette_2"],
 html:root[data-md-color-media="(prefers-color-scheme: light)"] .md-header__option label.md-header__button[for="__palette_3"],
 html:root[data-md-color-media="(prefers-color-scheme: dark)"] .md-header__option label.md-header__button[for="__palette_1"] { display: inline-block; }
+
+/* Footer credit for the site design (config.extra.design_credit), on its own row under the brand and social links. */
+.vb-footer__credit {
+  border-top: 1px solid rgb(255 255 255 / 12%);
+  flex-basis: 100%;
+  font-size: .64rem;
+  margin: 0;
+  opacity: .72;
+  padding-top: 1rem;
+}
+.vb-footer__credit a { color: inherit; text-decoration: underline; text-underline-offset: .15em; }
+.vb-footer__credit a:hover, .vb-footer__credit a:focus-visible { opacity: .8; }

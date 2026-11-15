@@ -53,3 +53,7 @@ Visitez nos [Partenaires affiliés du Hub Canadien de Bio-Informatique](https://
 - Brian Wilhelm, IRIC, Université de Montréal
 
 ///
+
+### Site web
+
+La conception de ce site a été réalisée par notre groupe frère, [VanBUG](https://vanbug.org), qui a généreusement partagé son travail. Le code source est disponible sur [GitHub](https://github.com/van-bug/van-bug.github.io).

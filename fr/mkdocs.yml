@@ -32,6 +32,10 @@ theme:
 
 extra:
   full_name: Groupe d’intérêt en bio-informatique de Montréal
+  design_credit:   # footer credit line (see overrides/main.html)
+    text: Conception du site par notre groupe frère
+    name: VanBUG
+    link: https://github.com/van-bug/van-bug.github.io
   alternate:
     - name: English
       link: /en/

@@ -1,6 +1,7 @@
 nav:
   - Accueil: index.md
-  - Contact: contact.md
   - Agenda: schedule.md
-  - Parrainage: sponsors.md
   - archive
+  - Parrainage: sponsors.md
+  - À propos: about.md
+  - Contact: contact.md

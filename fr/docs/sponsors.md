@@ -22,7 +22,9 @@ MonBUG est un Partenaire affilié du Hub Canadien de Bio-Informatique
 /// html | div[class="image-gallery"]
 
 - [![TorBUG](assets/images/sponsors_affiliations/torbug.logo.png)](https://torbug.org)
-- [![VanBUG](assets/images/sponsors_affiliations/vanbug.logo.png)](https://vanbug.org)
+- [![VanBUG](assets/images/sponsors_affiliations/vanbug.logo.transparent.png)](https://vanbug.org)
+- [![yegBUG](assets/images/sponsors_affiliations/yegbug.logo.png)](https://yegbug.ca)
+- [![OttBUG](assets/images/sponsors_affiliations/ottbug.logo.png)](https://ottbug.ca)
 
 ///
 
@@ -32,6 +34,6 @@ Nous avons déjà bénéficié d'un généreux soutien de la part de:
 
 /// html | div[class="image-gallery"]
 
-- [![MITACS](assets/images/sponsors_affiliations/mitacs.logo.jpg)](https://www.mitacs.ca/)
+- [![MITACS](assets/images/sponsors_affiliations/mitacs.logo.svg)](https://www.mitacs.ca/)
 
 ///

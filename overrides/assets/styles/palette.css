@@ -1,18 +1,24 @@
+/*
+ * Palette adapted from the VanBUG site redesign (van-bug.github.io, "Site redesign" #146).
+ * Variable names are kept identical to VanBUG's (--vb-*) so their stylesheets can be
+ * re-synced with minimal edits. "--vb-green" / "--vb-lime" therefore hold MonBUG blues:
+ * --vb-green is the deep ink colour, --vb-lime the bright accent from the MonBUG logo.
+ */
 :root,
 [data-md-color-scheme="default"] {
-  --vb-bg: #fbfcfb;
+  --vb-bg: #fbfcfd;
   --vb-surface: #fff;
-  --vb-tint: #eff3f0;
-  --vb-text: #151d19;
-  --vb-muted: #5f6d68;
-  --vb-rule: #e1e7e3;
-  --vb-green: #3d5c52;
-  --vb-green-deep: #2f4a41;
-  --vb-lime: #69cc07;
+  --vb-tint: #eef3f8;
+  --vb-text: #141b22;
+  --vb-muted: #5d6a77;
+  --vb-rule: #e0e6ec;
+  --vb-green: #22619a;
+  --vb-green-deep: #1a4b77;
+  --vb-lime: #4a9de3;
   --vb-glow: 0;
   --vb-link: var(--vb-green);
   --vb-link-hover: var(--vb-green-deep);
-  --vb-footer: #151d19;
+  --vb-footer: #141b22;
   --vb-radius: .4rem;
   --vb-grid: 70rem;
   --vb-font: "Instrument Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
@@ -20,30 +26,42 @@
   --md-text-font: var(--vb-font);
   --md-code-font: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   --md-primary-fg-color: var(--vb-green);
-  --md-primary-fg-color--light: #a3c2b8;
-  --md-primary-fg-color--dark: #141f1b;
-  --md-accent-fg-color--transparent: rgb(61 92 82 / 10%);
-  --md-default-fg-color--lighter: #8d9994;
+  --md-primary-fg-color--light: #94c0e9;
+  --md-primary-fg-color--dark: #10304c;
+  --md-accent-fg-color--transparent: rgb(34 97 154 / 10%);
+  --md-default-fg-color--lighter: #8a96a3;
   --md-footer-fg-color--light: rgb(255 255 255 / 72%);
   --md-footer-fg-color--lighter: rgb(255 255 255 / 45%);
   color-scheme: light;
 }
 
 [data-md-color-scheme="slate"] {
-  --vb-bg: #0f1512;
-  --vb-surface: #161d1a;
-  --vb-tint: #1a2420;
-  --vb-text: #e8ede9;
-  --vb-muted: #a0ada7;
-  --vb-rule: #26312c;
+  --vb-bg: #0e1318;
+  --vb-surface: #151c23;
+  --vb-tint: #19222b;
+  --vb-text: #e7ecf1;
+  --vb-muted: #9eabb8;
+  --vb-rule: #25303b;
+  --vb-lime: #5793d0;
   --vb-glow: 14;
-  --vb-link: #a3c2b8;
-  --vb-link-hover: #c4dbd3;
-  --vb-footer: #090d0b;
+  --vb-link: #5793d0;
+  --vb-link-hover: #8bb8e4;
+  --vb-footer: #080b0f;
 
-  --md-accent-fg-color--transparent: rgb(163 194 184 / 12%);
-  --md-default-fg-color--lighter: #6f7f79;
-  --md-code-bg-color: #090d0b;
+  --md-accent-fg-color--transparent: rgb(87 147 208 / 14%);
+  --md-default-fg-color--lighter: #6d7c8a;
+  --md-code-bg-color: #080b0f;
   --md-code-fg-color: var(--vb-text);
   color-scheme: dark;
+}
+
+:root,
+[data-md-color-scheme] {
+  --md-accent-fg-color: var(--vb-link-hover);
+  --md-default-bg-color: var(--vb-bg);
+  --md-default-fg-color: var(--vb-text);
+  --md-default-fg-color--light: var(--vb-muted);
+  --md-default-fg-color--lightest: var(--vb-rule);
+  --md-typeset-a-color: var(--vb-link);
+  --md-footer-bg-color: var(--vb-footer);
 }

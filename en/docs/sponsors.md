@@ -22,7 +22,9 @@ MonBUG is an Affiliate Partner of the Canadian Bioinformatics Hub
 /// html | div[class="image-gallery"]
 
 - [![TorBUG](assets/images/sponsors_affiliations/torbug.logo.png)](https://torbug.org)
-- [![VanBUG](assets/images/sponsors_affiliations/vanbug.logo.png)](https://vanbug.org)
+- [![VanBUG](assets/images/sponsors_affiliations/vanbug.logo.transparent.png)](https://vanbug.org)
+- [![yegBUG](assets/images/sponsors_affiliations/yegbug.logo.png)](https://yegbug.ca)
+- [![OttBUG](assets/images/sponsors_affiliations/ottbug.logo.png)](https://ottbug.ca)
 
 ///
 
@@ -32,6 +34,6 @@ We have previously been provided generous support from:
 
 /// html | div[class="image-gallery"]
 
-- [![MITACS](assets/images/sponsors_affiliations/mitacs.logo.jpg)](https://www.mitacs.ca/en)
+- [![MITACS](assets/images/sponsors_affiliations/mitacs.logo.svg)](https://www.mitacs.ca/en)
 
 ///

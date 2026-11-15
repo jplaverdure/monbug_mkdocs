@@ -1,0 +1,16 @@
+/*
+ * MonBUG-specific additions on top of the VanBUG stylesheets (kept separate so
+ * timeline/palette/general/image-gallery.css can be re-synced from VanBUG as-is).
+ */
+
+/* Header and hero logo: MonBUG blue (#22619A) on light backgrounds,
+   light logo blue (#94c0e9) in dark mode. See overrides/main.html. */
+body:not([data-md-color-scheme="slate"]) .vb-mark--on-dark,
+body[data-md-color-scheme="slate"] .vb-mark--on-light { display: none; }
+
+/* The French title is longer than VanBUG's: give it a wider column on desktop
+   so it sets on 3 lines instead of 4. */
+@media (min-width: 48em) {
+  html[lang="fr"] .vb-hero__inner { grid-template-columns: min(38rem, 64%) minmax(10rem, 1fr); }
+  html[lang="fr"] .vb-hero h1 { max-width: none; }
+}

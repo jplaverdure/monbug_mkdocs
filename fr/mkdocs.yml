@@ -6,8 +6,25 @@ site_url: https://monbug.ca/fr/
 theme:
   name: material
   language: fr
+  # Same as ../mkdocs.yml, with French tooltips (lists are replaced, not merged, by INHERIT)
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: octicons/sun-16
+        name: Passer au mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: octicons/moon-16
+        name: Passer au mode clair
 
 extra:
+  full_name: Groupe d’intérêt en bio-informatique de Montréal
   alternate:
     - name: English
       link: /en/

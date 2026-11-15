@@ -1,6 +1,7 @@
 nav:
   - Home: index.md
-  - Contact: contact.md
   - Agenda: schedule.md
-  - Sponsors: sponsors.md
   - archive
+  - Sponsors: sponsors.md
+  - About Us: about.md
+  - Contact: contact.md
